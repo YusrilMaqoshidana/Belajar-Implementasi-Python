@@ -1,0 +1,9 @@
+emberA = 500
+emberB = 200
+emberC = emberA
+emberA = emberB
+emberB = emberC
+print("Ember A: 500")
+print("Ember B: 200")
+print(f"Ember A: {emberA}")
+print(f"Ember B: {emberB}")
